@@ -1,0 +1,18 @@
+.notes-top-create
+{
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  top:100px;
+ 
+ 
+}
+.card-content-item
+{
+  
+}
+.display-all-notes
+{
+  display: flex;
+ justify-content: center;
+}
